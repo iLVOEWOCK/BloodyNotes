@@ -2,7 +2,7 @@ name: BloodyNotes
 main: wockgod\BloodyNotes
 api: 4.0.0
 author: Wockgod
-version: 1.0.2
+version: 1.0.0
 
 permissions:
   bloodynote.command:
