@@ -1,0 +1,10 @@
+name: BloodyNotes
+main: wockgod\BloodyNotes
+api: 4.0.0
+author: Wockgod
+version: 1.0.0
+
+permissions:
+  bloodynote.command:
+    default: op
+    description: "Gives permission to use Bloody note command"
