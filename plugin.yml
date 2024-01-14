@@ -1,10 +1,14 @@
 name: BloodyNotes
-main: wockgod\BloodyNotes
-api: 4.0.0
-author: Wockgod
-version: 1.0.0
+main: xtcy\bn\Loader
+api: 5.0.0
+version: 2.0.0
+author: xtcy_
+
+depend:
+  - BedrockEconomy
 
 permissions:
-  bloodynote.command:
+  bloodynotes.command:
     default: op
-    description: "Gives permission to use Bloody note command"
+  bloodynotes.command.give:
+    default: op
